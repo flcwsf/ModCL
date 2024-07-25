@@ -1,2 +1,2 @@
 # ModCL
-A maker to make the mod in command line.
+支持使用ModCL指定的json格式创建物品，并且可以使用命令行转换并且编译你的模组

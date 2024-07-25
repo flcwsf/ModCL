@@ -1,2 +1,2 @@
-# ModCL
-支持使用ModCL指定的json格式创建物品，可以使用命令行转换并且编译你的模组
+# MrpackCL
+支持使用命令行创建你的Modrinth整合包
